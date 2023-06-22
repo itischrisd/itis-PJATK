@@ -5,7 +5,7 @@
   PJATK (PJAIT) Courses
 </h1>
 
-The following repository compiles the list of all of the repositories that I have created during my studies on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Polish).
+The following repository compiles the list of all practical courses I have taken during my Computer Science studies on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Polish).
 
 ## Semester 1
 * PPJ
