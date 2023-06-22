@@ -36,4 +36,4 @@ If you need some help, notice any bugs or come up with possible improvements, fe
 
 ---
 
-Keep in mind that all solutions and other work, unless otherwise stated, were brought up to highest grading standards imposed by faculty members and automated grading systems. Besides my best effort to share my work as a learning resource, I do not condone any form of plagarism and foul play.
+Keep in mind that all solutions and other work, unless otherwise stated, were brought up to highest grading standards imposed by faculty members and automated grading systems. Besides my best effort to share my work as a learning resource, I do not condone any form of plagiarism and foul play.
