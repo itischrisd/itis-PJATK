@@ -22,7 +22,7 @@ The following repository compiles the list of all practical courses I have taken
 
 ## Semester 4
 * [ASD](https://github.com/itischrisd/itis-ASD)
-* GRK
+* [GRK](https://github.com/itischrisd/itis-GRK)
 * SAD
 * [SBD](https://github.com/itischrisd/itis-SBD)
 * [UTP](https://github.com/itischrisd/itis-UTP)
