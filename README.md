@@ -16,7 +16,7 @@ The following repository compiles the list of all practical courses I have taken
 * SOP
 
 ## Semester 3
-* PJC
+* [PJC](https://github.com/itischrisd/itis-PJC)
 * RBD
 * SKJ
 
