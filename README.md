@@ -17,7 +17,7 @@ The following repository compiles the list of all practical courses I have taken
 
 ## Semester 3
 * [PJC](https://github.com/itischrisd/itis-PJC)
-* RBD
+* [RBD](https://github.com/itischrisd/itis-RBD)
 * [SKJ](https://github.com/itischrisd/itis-SKJ)
 
 ## Semester 4
