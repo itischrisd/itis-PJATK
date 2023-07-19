@@ -13,7 +13,7 @@ The following repository compiles the list of all practical courses I have taken
 
 ## Semester 2
 * GUI
-* SOP
+* [SOP](https://github.com/itischrisd/itis-SOP)
 
 ## Semester 3
 * [PJC](https://github.com/itischrisd/itis-PJC)
