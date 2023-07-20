@@ -9,7 +9,7 @@ The following repository compiles the list of all practical courses I have taken
 
 ## Semester 1
 * [PPJ](https://github.com/itischrisd/itis-PPJ)
-* WSI
+* [WSI](https://github.com/itischrisd/itis-WSI)
 
 ## Semester 2
 * GUI
