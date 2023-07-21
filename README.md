@@ -12,7 +12,7 @@ The following repository compiles the list of all practical courses I have taken
 * [WSI](https://github.com/itischrisd/itis-WSI)
 
 ## Semester 2
-* GUI
+* [GUI](https://github.com/itischrisd/itis-GUI)
 * [SOP](https://github.com/itischrisd/itis-SOP)
 
 ## Semester 3
