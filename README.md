@@ -27,6 +27,9 @@ The following repository compiles the list of all practical courses I have taken
 * [SBD](https://github.com/itischrisd/itis-SBD)
 * [UTP](https://github.com/itischrisd/itis-UTP)
 
+## Semester 5
+* [NAI](https://github.com/itischrisd/itis-NAI)
+
 ## License and disclaimers
 All of the code in the above repositories is distributed under the [GPLv3](./LICENSE) unless specified otherwise inside the individual repositories.
 
