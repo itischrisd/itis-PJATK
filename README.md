@@ -30,6 +30,14 @@ The following repository compiles the list of all practical courses I have taken
 ## Semester 5
 * [NAI](https://github.com/itischrisd/itis-NAI)
 * [SYC](https://github.com/itischrisd/itis-SYC)
+* MUL
+
+## Semester 6
+* MUL2
+* PPY
+* MAS
+* TPO
+* [APBD](https://github.com/itischrisd/itis-APBD)
 
 ## License and disclaimers
 All of the code in the above repositories is distributed under the [GPLv3](./LICENSE) unless specified otherwise inside the individual repositories.
