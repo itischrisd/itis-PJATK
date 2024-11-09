@@ -39,6 +39,12 @@ The following repository compiles the list of all practical courses I have taken
 * [TPO](https://github.com/itischrisd/itis-TPO)
 * [APBD](https://github.com/itischrisd/itis-APBD)
 
+## Semester 7
+* [PRO1](https://github.com/itischrisd/itis-PRO1)
+* [TIN](https://github.com/itischrisd/itis-TIN)
+* [MIW](https://github.com/itischrisd/itis-MIW)
+* [PBIO](https://github.com/itischrisd/itis-PBIO)
+
 ## License and disclaimers
 All of the code in the above repositories is distributed under the [GPLv3](./LICENSE) unless specified otherwise inside the individual repositories.
 
