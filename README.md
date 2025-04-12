@@ -45,6 +45,11 @@ The following repository compiles the list of all practical courses I have taken
 * [MIW](https://github.com/itischrisd/itis-MIW)
 * [PBIO](https://github.com/itischrisd/itis-PBIO)
 
+* ## Semester 7
+* [PRM](https://github.com/itischrisd/itis-PRM)
+* [PSM](https://github.com/itischrisd/itis-PSM)
+* [AUG](https://github.com/itischrisd/itis-AUG)
+
 ## License and disclaimers
 All of the code in the above repositories is distributed under the [GPLv3](./LICENSE) unless specified otherwise inside the individual repositories.
 
