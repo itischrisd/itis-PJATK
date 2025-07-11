@@ -7,6 +7,8 @@
 
 The following repository compiles the list of all practical courses I have taken during my Computer Science studies on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Polish).
 
+# Engineering studies
+
 ## Semester 1
 * [PPJ](https://github.com/itischrisd/itis-PPJ)
 * [WSI](https://github.com/itischrisd/itis-WSI)
@@ -49,6 +51,10 @@ The following repository compiles the list of all practical courses I have taken
 * [PRM](https://github.com/itischrisd/itis-PRM)
 * [PSM](https://github.com/itischrisd/itis-PSM)
 * [AUG](https://github.com/itischrisd/itis-AUG)
+
+# Master's studies
+
+Coming soon...
 
 ## License and disclaimers
 All of the code in the above repositories is distributed under the [GPLv3](./LICENSE) unless specified otherwise inside the individual repositories.
