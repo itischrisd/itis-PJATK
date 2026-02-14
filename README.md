@@ -54,7 +54,9 @@ The following repository compiles the list of all practical courses I have taken
 
 # Master's studies
 
-Coming soon...
+## Semester 1
+* [ZBD](https://github.com/itischrisd/itis-ZBD)
+* [TEG](https://github.com/itischrisd/itis-TEG)
 
 ## License and disclaimers
 All of the code in the above repositories is distributed under the [GPLv3](./LICENSE) unless specified otherwise inside the individual repositories.
