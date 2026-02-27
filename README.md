@@ -1,7 +1,10 @@
-<h1 align="center">
-  <div>
-    <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="PJAIT logo" />
-  </div>
+<h1 style="text-align: center;">
+  <img
+    src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg"
+    width="80"
+    alt="PJAIT logo"
+    style="display: block; margin: 0 auto;"
+  />
   PJATK (PJAIT) Courses
 </h1>
 
@@ -12,61 +15,61 @@ on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Poli
 
 ## Semester 1
 
-* [PPJ](https://github.com/itischrisd/itis-PPJ)
-* [WSI](https://github.com/itischrisd/itis-WSI)
+* [PPJ](https://github.com/itisarchive/itis-PPJ)
+* [WSI](https://github.com/itisarchive/itis-WSI)
 
 ## Semester 2
 
-* [GUI](https://github.com/itischrisd/itis-GUI)
-* [SOP](https://github.com/itischrisd/itis-SOP)
+* [GUI](https://github.com/itisarchive/itis-GUI)
+* [SOP](https://github.com/itisarchive/itis-SOP)
 
 ## Semester 3
 
-* [PJC](https://github.com/itischrisd/itis-PJC)
-* [RBD](https://github.com/itischrisd/itis-RBD)
-* [SKJ](https://github.com/itischrisd/itis-SKJ)
+* [PJC](https://github.com/itisarchive/itis-PJC)
+* [RBD](https://github.com/itisarchive/itis-RBD)
+* [SKJ](https://github.com/itisarchive/itis-SKJ)
 
 ## Semester 4
 
-* [ASD](https://github.com/itischrisd/itis-ASD)
-* [GRK](https://github.com/itischrisd/itis-GRK)
-* [SAD](https://github.com/itischrisd/itis-SAD)
-* [SBD](https://github.com/itischrisd/itis-SBD)
-* [UTP](https://github.com/itischrisd/itis-UTP)
+* [ASD](https://github.com/itisarchive/itis-ASD)
+* [GRK](https://github.com/itisarchive/itis-GRK)
+* [SAD](https://github.com/itisarchive/itis-SAD)
+* [SBD](https://github.com/itisarchive/itis-SBD)
+* [UTP](https://github.com/itisarchive/itis-UTP)
 
 ## Semester 5
 
-* [NAI](https://github.com/itischrisd/itis-NAI)
-* [SYC](https://github.com/itischrisd/itis-SYC)
-* [MUL](https://github.com/itischrisd/itis-MUL)
+* [MUL](https://github.com/itisarchive/itis-MUL)
+* [NAI](https://github.com/itisarchive/itis-NAI)
+* [SYC](https://github.com/itisarchive/itis-SYC)
 
 ## Semester 6
 
-* [MUL2](https://github.com/itischrisd/itis-MUL2)
-* [PPY](https://github.com/itischrisd/itis-PPY)
-* [MAS](https://github.com/itischrisd/itis-MAS)
-* [TPO](https://github.com/itischrisd/itis-TPO)
-* [APBD](https://github.com/itischrisd/itis-APBD)
+* [APBD](https://github.com/itisarchive/itis-APBD)
+* [MAS](https://github.com/itisarchive/itis-MAS)
+* [MUL2](https://github.com/itisarchive/itis-MUL2)
+* [PPY](https://github.com/itisarchive/itis-PPY)
+* [TPO](https://github.com/itisarchive/itis-TPO)
 
 ## Semester 7
 
-* [PRO1](https://github.com/itischrisd/itis-PRO1)
-* [TIN](https://github.com/itischrisd/itis-TIN)
-* [MIW](https://github.com/itischrisd/itis-MIW)
-* [PBIO](https://github.com/itischrisd/itis-PBIO)
+* [MIW](https://github.com/itisarchive/itis-MIW)
+* [PBIO](https://github.com/itisarchive/itis-PBIO)
+* [PRO1](https://github.com/itisarchive/itis-PRO1)
+* [TIN](https://github.com/itisarchive/itis-TIN)
 
 ## Semester 8
 
-* [PRM](https://github.com/itischrisd/itis-PRM)
-* [PSM](https://github.com/itischrisd/itis-PSM)
-* [AUG](https://github.com/itischrisd/itis-AUG)
+* [AUG](https://github.com/itischrisd/RouterDefinitionLanguage)
+* [PRM](https://github.com/itisarchive/itis-PRM)
+* [PSM](https://github.com/itisarchive/itis-PSM)
 
 # Master's studies
 
 ## Semester 1
 
-* [ZBD](https://github.com/itischrisd/itis-ZBD)
-* [TEG](https://github.com/itischrisd/itis-TEG)
+* [TEG](https://github.com/itisarchive/itis-TEG)
+* [ZBD](https://github.com/itisarchive/itis-ZBD)
 
 ## License and disclaimers
 
