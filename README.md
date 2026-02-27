@@ -1,8 +1,7 @@
-<h1 style="text-align: center;">
-  <img width="80"
-       src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg"
-       alt="PJAIT logo" />
-  <br />
+<h1 align="center">
+  <div>
+    <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="PJAIT logo" />
+  </div>
   PJATK (PJAIT) Courses
 </h1>
 
