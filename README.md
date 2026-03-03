@@ -60,6 +60,7 @@ on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Poli
 * [AUG](https://github.com/itischrisd/RouterDefinitionLanguage)
 * [PRM](https://github.com/itisarchive/itis-PRM)
 * [PSM](https://github.com/itisarchive/itis-PSM)
+* [Engineering Thesis](https://github.com/itischrisd/neighbor-help)
 
 # Master's studies
 
